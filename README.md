@@ -4,4 +4,4 @@ NPM     : 2106708210
 
 Kelas   : A
 
-Hobi    : Minum
+Hobi    : Minum Air

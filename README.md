@@ -4,4 +4,4 @@ NPM     : 2106708210
 
 Kelas   : A
 
-Hobi    : Makan
+Hobi    : Minum Air
